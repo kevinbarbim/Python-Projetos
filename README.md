@@ -1,4 +1,4 @@
-# 🐍 Back-End com Python — Alura
+# 🐍 Back-End com Python
 
 Repositório com **exercícios, projetos e práticas** desenvolvidos ao longo da **Carreira de Desenvolvimento Back-End Python da Alura  do curso Python 3+ completo PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação da Udemy**.
 
